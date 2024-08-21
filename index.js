@@ -54,12 +54,13 @@ function _0x4c89() {
     '2159150EDGAXW',
     '168zdSFSH',
     '4sVfrjc',
-    'Complete\x20tasks\x20',
+    'Galxe\x20Auto\x20Complete\x20tasks\x20–\x20Happy\x20Cuan\x20Airdrop',
     'Popup\x20closed.',
     '4085940cqRFSz',
     '296982aZnxvK',
     '97731gjstXG',
     '533853OldFqe',
+    'Claim\x20button\x20clicked',
     'length',
   ];
   _0x4c89 = function () {
